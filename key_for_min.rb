@@ -6,10 +6,11 @@ def key_for_min_value(hash_name)
   new_hash = {}
   new_hash[key] = value 
     hash_name.each do |key, value|
-    if variable < new_hash
+    if value < new_hash
+      
     else
         end
-
+    end
 
 end
      
