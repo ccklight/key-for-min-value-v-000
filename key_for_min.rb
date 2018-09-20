@@ -8,9 +8,8 @@ def key_for_min_value(hash)
     if min == nil || min > number
       min = number
     end
-  
   end
-  key_for_min_value
+  key
 end
    
    
