@@ -12,13 +12,13 @@ def key_for_min_value(name_hash)
   #   lowest_value = value
   # new_hash[key] = value 
    
-  else 
-    nil
+#   else 
+#     nil
     
     
     
-    binding.pry
-end
+#     binding.pry
+# end
 
 
 
