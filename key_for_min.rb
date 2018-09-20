@@ -9,6 +9,11 @@ def key_for_min_value(name_hash)
   if  #if/else conditional here
    new_hash[key] = value 
    
+  else 
+    nil
+    
+    
+    
     binding.pry
 end
 
