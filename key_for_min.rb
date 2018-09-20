@@ -9,7 +9,7 @@ def key_for_min_value(hash_name)
     if lowest_key == nil || lowest_value == nil || value < lowest_value
         key_for_min_value
     else # Keep re-setting the local variable lowest_key until I find the lowest one
-          
+        end
 
 
 end
