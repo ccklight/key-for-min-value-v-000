@@ -1,17 +1,14 @@
 
 require 'pry'
 
-def key_for_min_value(hash_name)
-  new_hash = {}
-  new_hash[key] = value 
-    hash_name.each do |key, value|
-    if value < new_hash
-      new_hash[key]
-    else
+def key_for_min_value(hash)
+  min = nil 
+  
+  hash.each do |key, number|
+    if !min 
       
-        end
     end
-
+  end
 end
    
    
