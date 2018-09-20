@@ -8,7 +8,9 @@ def key_for_min_value(hash_name)
     hash_name.each do |key, value|
     if lowest_key == nil || lowest_value == nil ||value <lowest_valu
         
-    else 
+    else # Keep re-setting the local variable lowest_key until I find the lowest one
           do
-      end
+
+
+end
      
