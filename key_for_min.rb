@@ -9,7 +9,7 @@ def key_for_min_value(hash_name)
     if value < new_hash
       new_hash
     else
-    end
+        end
       nil
     end
 
