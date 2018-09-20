@@ -5,21 +5,14 @@ require 'pry'
 def key_for_min_value(hash_name)
   new_hash = {}
   new_hash[key] = value 
-    name_hash.each do |key, value|
-    if lowest_key == nil || lowest_value == nil 
+    hash_name.each do |key, value|
+    if lowest_key == nil || lowest_value == nil ||value <lowest_valu
         
     else 
       
       end
       key_for_min_value
   
- 
-#   
-
-     
-#     else
-    
-#     nil
-#   end
-
-# end
+ lowest_value = value 
+  end
+end 
