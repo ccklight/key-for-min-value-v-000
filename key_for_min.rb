@@ -12,6 +12,7 @@ def key_for_min_value(name_hash)
     if value < lowest_value && key < lowest_key 
      
     else
+    
     nil
   end
 
